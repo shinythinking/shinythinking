@@ -4,7 +4,7 @@
 - (2024 06 ~ 2025 02) 네이버 부스트캠프 Android 과정 수료📱
 - (2020 02 ~ ) 단국대학교 국제경영학과 + 모바일시스템공학 🎓
 
----
+
   
 ### 🏗️ Projects
 
@@ -12,16 +12,16 @@
 |----------|------|
 | [📍 MAPISODE](https://github.com/boostcampwm-2024/and05-MAPISODE) | 지도에 사용자의 경험을 기록하고 공유하는 앱 |
 
----
+
 
 ### 🙌 Volunteer
 - 🌱 **외국인 튜터링** – 전공 지식과 관련하여, 외국인 학생을 대상으로 튜터링 진행 (2025~)
 
----
+
 
 ### 🎨 Certificates
 - SQLD
----
+
 ### 🛠️ Tech Stack
 
 <p>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
----
+
 ### 📬 Contact
 
 - ✉️ Email: shinythink@gmail.com  
