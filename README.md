@@ -31,8 +31,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinythink)](https://solved.ac/shinythink/)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=deepthinking)](https://solved.ac/deepthinking)
 
 ### 📬 Contact
 
