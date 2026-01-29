@@ -11,11 +11,14 @@
 | 프로젝트 | 설명 |
 |----------|------|
 | [📍 MAPISODE](https://github.com/boostcampwm-2024/and05-MAPISODE) | 지도에 사용자의 경험을 기록하고 공유하는 앱 |
+| [🎙️ 이전리 방송국](https://github.com/shinythinking/BroadcastAutomation) | 이장님의 마을 방송을 도와주는 앱 |
+| [🏋🏻 ApplePulser](https://github.com/shinythinking/applepulser-android) | 심박수를 활용한 멀티플레이 운동 플랫폼 |
 
 
 
 ### 🙌 Volunteer
 - 🌱 **외국인 튜터링** – 전공 지식과 관련하여, 외국인 학생을 대상으로 튜터링 진행 (2025~)
+- 🌱 **KT 대학생 IT 서포터즈** – 도서산간 학생들에게 AI와 관련된 체험 봉사 제공 (2025)
 
 
 
