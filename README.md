@@ -38,6 +38,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=deepthinking)](https://solved.ac/deepthinking)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shinythinking)](https://wakatime.com/@shinythinking)
+
 ### 📬 Contact
 
 - ✉️ Email: shinythink@gmail.com  
